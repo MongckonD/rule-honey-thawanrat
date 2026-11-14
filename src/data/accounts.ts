@@ -7,8 +7,8 @@ export type Account = {
 };
 
 export const ACCOUNTS: Account[] = [
-  { label: "เลขบัญชีธนาคาร", detail: "ธนาคารกสิกรไทย (K+) · อัฐพร ช่วยคูณ", number: "233-2-90132-2", icon: "/kbank-icon.png" },
-  { label: "เลขวอเลท", detail: "TrueMoney Wallet · อัฐพร ช่วยคูณ", number: "061-258-0471", icon: "/truemoney-icon.png" },
+  { label: "เลขบัญชีธนาคาร", detail: "ธนาคารกสิกรไทย (K+) · ธวัลรัตน์ เชื้อแก้ว", number: "154-8-30992-8", icon: "/kbank-icon.png" },
+  { label: "เลขวอเลท", detail: "TrueMoney Wallet · ธวัลรัตน์ เชื้อแก้ว", number: "092-694-1799", icon: "/truemoney-icon.png" },
 ];
 
 export const ACCOUNT_NOTE = "มีสองบัญชีเท่านั้น · โอนบัญชีอื่นไม่รับผิดชอบทั้งสิ้น";
